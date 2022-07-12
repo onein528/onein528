@@ -14,12 +14,17 @@ C/C# 16 years old developer<br>
 **Skills:** GitHub v3/v4 API, Win32API both of user/kernel mode, UWP, almost designer, and more<br>
 **Contact:** onein528@outlook.com
 
-This FluentHub is owned by me and lead dev.
+#### C#/UWP
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FluentHub&repo=FluentHub)](https://github.com/FluentHub/FluentHub)
 
+#### Win32API console apps
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onein528&repo=win32-commands)](https://github.com/onein528/win32-commands)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=onein528&repo=win32-apps)](https://github.com/onein528/win32-apps)
+
 <!--
-## Metrics
+### Metrics
 
 ![Metrics](https://metrics.lecoq.io/onein528?template=classic&languages=1&isocalendar=1&followup=1&activity=1&code=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FTokyo)
 -->
